@@ -1,6 +1,6 @@
 export default {
     root: "three-dev",
-    publicDir: "../public",
+    publicDir: "../src",
     build: {
     outDir: "../build"
     }
